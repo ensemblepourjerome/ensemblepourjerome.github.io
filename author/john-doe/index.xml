@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ensemble Pour Jérôme</title>
+    <link>http://localhost/author/john-doe/</link>
+    <description>Recent content on Ensemble Pour Jérôme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
+    
+	<atom:link href="http://localhost/author/john-doe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Marche Gourmande</title>
+      <link>http://localhost/blog/marche-gourmande/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>http://localhost/blog/marche-gourmande/</guid>
+      <description>A travers champs et forêts, sans aucune difficulté, nous vous proposons 6 pauses gourmandes réparties sur une distance d&amp;rsquo;environ 8 km.</description>
+    </item>
+    
+  </channel>
+</rss>
