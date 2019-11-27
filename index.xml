@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ensemble Pour Jérôme</title>
-    <link>http://localhost/</link>
+    <link>https://ensemblepourjerome.github.io/</link>
     <description>Recent content on Ensemble Pour Jérôme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
     
-	<atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ensemblepourjerome.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Marche Gourmande</title>
-      <link>http://localhost/blog/marche-gourmande/</link>
+      <link>https://ensemblepourjerome.github.io/blog/marche-gourmande/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>http://localhost/blog/marche-gourmande/</guid>
+      <guid>https://ensemblepourjerome.github.io/blog/marche-gourmande/</guid>
       <description>A travers champs et forêts, sans aucune difficulté, nous vous proposons 6 pauses gourmandes réparties sur une distance d&amp;rsquo;environ 8 km.</description>
     </item>
     
     <item>
       <title>Fête de la musique</title>
-      <link>http://localhost/blog/fete-musique/</link>
+      <link>https://ensemblepourjerome.github.io/blog/fete-musique/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>http://localhost/blog/fete-musique/</guid>
+      <guid>https://ensemblepourjerome.github.io/blog/fete-musique/</guid>
       <description>La fête de la musique est l&amp;rsquo;une des actions majeures organisées par l&amp;rsquo;association. Cette année, nous vous donnons rendez-vous le ?? juin 2019 ! Venez nombreux!!</description>
     </item>
     
     <item>
       <title>Marché de Noël</title>
-      <link>http://localhost/blog/marche-noel/</link>
+      <link>https://ensemblepourjerome.github.io/blog/marche-noel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/blog/marche-noel/</guid>
+      <guid>https://ensemblepourjerome.github.io/blog/marche-noel/</guid>
       <description>L&amp;rsquo;association a participé au marché de Noël de Soultzmatt en vendant des objets de décoration.</description>
     </item>
     
