@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ensemblepourjerome.github.io/author/john-doe/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ensemblepourjerome.github.io/author/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
@@ -23,13 +18,13 @@
   </url>
   
   <url>
-    <loc>https://ensemblepourjerome.github.io/blog/marche-gourmande/</loc>
+    <loc>https://ensemblepourjerome.github.io/author/john-doe/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ensemblepourjerome.github.io/author/jamica-jock/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <loc>https://ensemblepourjerome.github.io/blog/marche-gourmande/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
@@ -38,7 +33,13 @@
   </url>
   
   <url>
-    <loc>https://ensemblepourjerome.github.io/author/somrat/</loc>
+    <loc>https://ensemblepourjerome.github.io/author/jamica-jock/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ensemblepourjerome.github.io/blog/marche-noel/</loc>
+    <lastmod>2015-03-06T14:51:12+06:00</lastmod>
   </url>
   
   <url>
@@ -46,35 +47,7 @@
   </url>
   
   <url>
-    <loc>https://ensemblepourjerome.github.io/tags/golang/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ensemblepourjerome.github.io/tags/hugo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ensemblepourjerome.github.io/blog/marche-noel/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ensemblepourjerome.github.io/tags/programming/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ensemblepourjerome.github.io/categories/starting/</loc>
-  </url>
-  
-  <url>
     <loc>https://ensemblepourjerome.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ensemblepourjerome.github.io/tags/theme/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ensemblepourjerome.github.io/author/themefisher/</loc>
   </url>
   
 </urlset>
