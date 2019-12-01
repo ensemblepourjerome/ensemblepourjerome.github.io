@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ensemblepourjerome.github.io/author/john-doe/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ensemblepourjerome.github.io/author/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
@@ -18,18 +23,8 @@
   </url>
   
   <url>
-    <loc>https://ensemblepourjerome.github.io/author/john-doe/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ensemblepourjerome.github.io/blog/marche-gourmande/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ensemblepourjerome.github.io/blog/fete-musique/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
@@ -38,8 +33,17 @@
   </url>
   
   <url>
+    <loc>https://ensemblepourjerome.github.io/blog/fete-musique/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ensemblepourjerome.github.io/blog/marche-noel/</loc>
     <lastmod>2015-03-06T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ensemblepourjerome.github.io/author/somrat/</loc>
   </url>
   
   <url>

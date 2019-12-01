@@ -6,7 +6,30 @@
 .event-area{
 
 }
-.hero-area{
-    background-color:white!important;
-    
+.hero-area:before {
+  content: '';
+  background: rgba(131, 166, 246, 0.3);
+  
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
 }
+.intro-content{
+    margin-top:20%;
+}
+ 
+ #ImgLogo{
+ margin-top:-20%;
+ margin-left:-20%;
+z-index:999;
+width:100%;
+height:80%;
+ }
+ .logoLink{
+display:block;
+width:1800px;height:800px;
+z-index:9999;
+ }
+
