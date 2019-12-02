@@ -6,30 +6,46 @@
 .event-area{
 
 }
+.hero-area {
+  background-size:50%;
+}
 .hero-area:before {
-  content: '';
-  background: rgba(131, 166, 246, 0.3);
-  
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
+
+  background-color: white;
+  background-size:50%;
+
 }
-.intro-content{
-    margin-top:20%;
+
+.hero-area .block p {
+  color: black;
+  font-size: 20px;  
 }
- 
- #ImgLogo{
- margin-top:-20%;
- margin-left:-20%;
-z-index:999;
-width:100%;
-height:80%;
- }
- .logoLink{
-display:block;
-width:1800px;height:800px;
-z-index:9999;
- }
+
+#DivIntro{
+overflow:hidden;
+text-align:center;
+height:100%;
+position:absolute;
+
+}
+#DivIntroImg {
+display: inline-block;
+text-align: center;
+height:50%;
+
+}
+
+#ImgLogo{
+height:95%;
+width:95%;
+}
+
+#DivIntroContent{
+display: inline-block;
+margin-top:3%;
+width:80%
+}
+
+
+
 
