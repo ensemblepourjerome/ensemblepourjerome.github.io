@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ensemble Pour Jérôme</title>
+    <link>https://ensemblepourjerome.github.io/author/jamica-jock/</link>
+    <description>Recent content on Ensemble Pour Jérôme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
+    
+	<atom:link href="https://ensemblepourjerome.github.io/author/jamica-jock/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fête de la musique</title>
+      <link>https://ensemblepourjerome.github.io/blog/fete-musique/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://ensemblepourjerome.github.io/blog/fete-musique/</guid>
+      <description>La fête de la musique est l&amp;rsquo;une des actions majeures organisées par l&amp;rsquo;association. Cette année, nous vous donnons rendez-vous le ?? juin 2019 ! Venez nombreux!!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+.event-content{
+    margin-left:20%;
+    
+  
+}
+
+.hero-area:before {
+
+  background-color: white;
+
+}
+
+#DivIntro{
+position:relative;
+overflow:hidden;
+height:100%;
+width:100%;
+padding-top:1%;
+text-align:center;
+
+}
+#DivIntroImg {
+display:table;
+overflow:hidden;
+position:absolute;
+max-height:60%;
+width:100%;
+ display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+
+#ImgLogo{
+max-width:75%;
+max-height:75%;
+}
+
+#DivIntroContent{
+left:15%;
+max-width:70%;
+max-height:40%;
+height:30%;
+top:60%;
+position:absolute;
+}
+
+
+/* About*/
+#about-img{
+
+display:table;
+margin-left:auto;
+margin-right:auto;
+
+}
+
+#about-description{
+display:table;
+margin-left:auto;
+margin-right:auto;
+margin-top:2%;
+max-width:70%;
+}
+#about-description p{
+color:white;
+}
