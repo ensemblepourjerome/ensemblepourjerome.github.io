@@ -19,6 +19,9 @@ body
 .purple{
 	background: #4a148c;
 }
+.text-blue{
+	color:#1976d2;
+}
 .section-wrapper{
 	padding-top: 90px;
 	padding-bottom: 80px;

@@ -111,7 +111,41 @@ position:absolute;
 	vertical-align:middle;
 	color:white;
 	font-size: 20px;
-	font: ;
+
+}
+
+.new-logo{
+	width:30%;	
+	left:2%;
+}
+ .a_link{
+	width: 300px!important;
+	text-align: center;
+	margin-top: 20px;
+ }
+
+ .text-inscription{
+	color:white;
+	font-weight:700;
+	font-size: x-large;
+ }
+.div_inscription{
+
+    border-style:solid;
+    border-color:#fff;
+    width: 300px;
+    height:200px;    
+    border-radius: 30px;    
+	margin-left:5%;
+	background-color: #a9b5c0;
+	padding:2%;
+}
+
+.div_inscription:hover{
+	background-color: #8fa7be;
+}
+#div_inscriptiontel{
+	margin-top:20%;
 }
   /**
  * end circles
@@ -201,56 +235,37 @@ position:absolute;
 	letter-spacing: 3px;
 }
 /*=================================================
-||				4. Our Service
+||				Parcours
 ==================================================*/
-.service{
-	background: #ededed;
-	position: relative;
-}
-.service .section-title{
-	margin-top: 110px;
-}
-.services{
-	margin-bottom: 100px;
-}
-.service .underline{
-	margin-bottom: 75px;
-}
-.service-img{
-	position: absolute;
-	bottom: 0px;
+
+.parcours-detail{
+	font-size: 20px;
+	color: #222224;
+	font-weight: 200;
+	margin-top: 1%;
+	margin-left:50%;
+	min-width:60%!important;
+	
+	/*position: absolute;*/
+	/*padding-left: 40px;*/
+    /*line-height: 22px;*/
 }
 
-.twitter-feed{
-	color: #fff;
-}
-.item{
-	text-align: center;
-}
-.owl-prev, .owl-next
-{
-	position: absolute;
-	top: 10%;
-}
-.owl-next
-{
-	right: -10px;
-}
-.owl-prev
-{
-	left: -10px;
-}
-.owl-prev:before
-{
-    /*content: "\f3d2";*/
-    /*font-family: 'ionicons';*/
-    content: url("../images/left.png");
-}
-.owl-next:before
-{
-    /*content: "\f3d3";*/
-    /*font-family: "ionicons";*/
-    content: url("../images/right.png");
+/*=================================================
+||				Inscription
+==================================================*/
+
+.inscription-detail{
+	font-size: 20px;
+	color: #222224;
+	font-weight: 200;
+	margin-top: 1%;
+	margin-left:3%;
+	min-width:60%!important;
+	
+	/*position: absolute;*/
+	/*padding-left: 40px;*/
+    /*line-height: 22px;*/
 }
 
 /*=================================================
